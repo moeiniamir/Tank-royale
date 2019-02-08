@@ -6,5 +6,5 @@ Here's a zipped file including:
   
   
   
-please report any bug you encounter or any adjustment you see fit.
+please ~~report~~ fix any bug you encounter or any adjustment you see fit.
   
